@@ -1,6 +1,6 @@
 import React from "react";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-import "../nav/Navbar";
+import "../../styles/navbar.css";
 
 const Navbar = ({ setShow, size }) => {
   return (

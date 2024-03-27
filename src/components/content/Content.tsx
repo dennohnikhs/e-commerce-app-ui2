@@ -5,7 +5,11 @@ const Content = () => {
     <>
       <div className="kit_container">
         <div className="img_container">
-          <img className="img_kit" src="/assets/huronbottle.webp" alt="" />
+          <img
+            className="img_kit"
+            src="/assets/images/huronbottle.webp"
+            alt=""
+          />
         </div>
         <div className="kit_content">
           <h1 className="heading_kit">Kits.</h1>
