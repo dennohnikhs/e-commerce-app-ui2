@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Contact from "./components/Contact";
-import LoginForm from "./components/LoginForm";
-import Privacy from "./components/Privacy";
-import SignUpForm from "./components/SignUpForm";
 import Navbar from "./components/nav/Navbar";
 import Home from "./components/home/Home";
 import "./App.css";
+import LoginForm from "./components/login/LoginForm";
+import Contact from "./components/contact/Contact";
+import Privacy from "./components/privacy/Privacy";
+import SignUpForm from "./components/sign-up/SignUpForm";
 
 function App() {
   return (

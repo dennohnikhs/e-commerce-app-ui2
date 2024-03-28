@@ -3,7 +3,7 @@ import "./Home.css";
 
 import Footer from "../footer/Footer";
 import Content from "../content/Content";
-import Cartform from "../cart/CartForm";
+import CartForm from "../cart/CartForm";
 const Home = () => {
   return (
     <div>
@@ -20,7 +20,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <Cartform />
+      <CartForm />
       <Content />
       <Footer />
     </div>

@@ -60,10 +60,10 @@ const Navbar = () => {
               <Link to="/privacy" className="link">
                 Privacy
               </Link>
-              <Link to="/loginform" className="link">
+              <Link to="/login" className="link">
                 Login
               </Link>
-              <Link to="/signup" className="link">
+              <Link to="/sign-up" className="link">
                 Signup
               </Link>
             </div>
@@ -77,10 +77,10 @@ const Navbar = () => {
               <Link to="/privacy" className="sidebar_link">
                 Privacy
               </Link>
-              <Link to="/loginform" className="szidebar_link">
+              <Link to="/login" className="szidebar_link">
                 Login
               </Link>
-              <Link to="/signup" className="sidebar_link">
+              <Link to="/sign-up" className="sidebar_link">
                 Signup
               </Link>
             </div>
